@@ -1,0 +1,3 @@
+Total packets: 36
+TCP packets: 10
+Filtered TCP packets: 6
